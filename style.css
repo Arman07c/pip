@@ -1,0 +1,53 @@
+body {
+    background: url(iml.jpg) no-repeat;
+}
+#first-heading{
+    padding: 15 30px;
+    text-align: center;
+}
+.heading-line{
+    text-align: center;
+    font-variant: inherit;
+}
+#second-heading{
+    text-align: center;
+}
+.personal-details{
+    text-align: center;
+    margin: 0%;
+}
+ul{
+    display: inline-block;
+    text-align: left;
+}
+.educational-details{
+    text-align: center;
+}
+table{
+    margin: 0px auto;
+}
+.skill-set{
+    text-align: center;
+}
+ol{
+    display: inline-block;
+    text-align: left;
+}
+.softskill{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+.contact img{
+    width: 140;
+    height: 140;
+}
+.pic{
+    text-align: center;
+}
+.pic img{
+    width: 500;
+    height: 400;
+    border-radius: 15px;
+}
